@@ -13,6 +13,7 @@ The Saxton-Saxton writing system requires a preprocessor to insert glottal stops
 
 Unstressed vowels are not represented orthographically in the Saxton and Saxton writing system
 and do not appear in the phonetic transduction. In the Alvarez-Hale 
-writing system unstressed vowels are represented with a breve  ̆ above the unstressed vowel, which also appears 
+writing system unstressed vowels are represented with a breve  ̆ above the unstressed vowel which also appears 
 in the phonetic transduction.
  
+In the future the Alvarez-Hale and Satxon-Saxton writing systems will be merged into one map.
